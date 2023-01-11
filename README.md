@@ -3,4 +3,4 @@
 3) Deploy source.sol and also verify
 4) Send Msg through Source.sol
 
-Note: make sure chainID is correct, and that msg value 
+Note: make sure chainID is correct
